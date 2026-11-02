@@ -31,7 +31,13 @@
       ],
       "expo-router",
       "expo-font",
-      "expo-image"
+      "expo-image",
+      [
+        "expo-splash-screen",
+        {
+          "backgroundColor": "#8a5a1f"
+        }
+      ]
     ],
     "scheme": "prostefakty"
   }
